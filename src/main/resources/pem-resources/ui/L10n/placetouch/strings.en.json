@@ -1,0 +1,20 @@
+{
+	"1PHASE" : "Single phase",
+	"3PHASE_3WIRE": "3-phase 3-wire",
+	"3PHASE_4WIRE": "3-phase 4-wire",
+	
+	"addDevice" : "Add device",
+	
+	"connection": "Connection",
+	"control" : "Control",
+	
+	"autoReadingFrequency": "Auto. reading frequency<br/>(in minutes)",
+
+	"RAW_SLAVE" : "Not specified",
+	
+	"SDM630" : "SDM630 Meter",
+	"selectDeviceProfile" : "Select device profile",
+	
+	"unitID" : "Modbus identifier",
+	"updateQuery" : "Update data"
+}

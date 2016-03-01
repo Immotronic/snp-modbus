@@ -1,0 +1,31 @@
+<h2>Modbus</h2>
+<div>
+	<table id="addingModbusDevice">
+		<tr>
+			<td class="label" tr="selectDeviceProfile"></td>
+			<td class="value">
+				<select id="deviceProfile">
+					<option value="SDM630" tr="SDM630"></option>
+				</select>
+			</td>
+		</tr>
+		<tr>
+			<td class="label" tr="unitID"></td><td class="value"><input type="text" maxlength="3" id="itemUnitID"></td>
+		</tr>
+		<tr>
+			<td class="label" tr="name"></td><td class="value"><input type="text" id="itemName"></td>
+		</tr>
+		<tr>
+			<td class="label" tr="location"></td><td class="value"><input type="text" id="itemLocation"></td>
+		</tr>
+		<tr>
+			<td class="label" tr="autoReadingFrequency"></td><td class="value"><input type="text" maxlength="6" id="itemFrequency"></td>
+		</tr>
+		<tr>
+			<td colspan="2" class="buttons">
+				<input type="button" id="ModbusAddNode" tr="addDevice">
+				<img src="/Immotronic/modbus/ui/img/loading_default.gif" width="16" height="16" style="display:none"/>
+			</td>
+		</tr>
+	</table>
+</div>

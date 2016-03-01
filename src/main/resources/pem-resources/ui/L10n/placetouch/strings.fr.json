@@ -1,0 +1,19 @@
+{
+	"1PHASE" : "Monophasé",
+	"3PHASE_3WIRE": "Triphasé",
+	"3PHASE_4WIRE": "Triphasé + neutre",
+
+	"addDevice" : "Ajouter",
+	"autoReadingFrequency": "Fréquence relevé auto.<br/>(en minutes)",
+	
+	"connection": "Cablage",
+	"control" : "Contrôle",
+	
+	"RAW_SLAVE" : "Non spécifié",
+
+	"SDM630" : "Compteur SDM630",
+	"selectDeviceProfile" : "Profil",
+	
+	"unitID" : "Identifiant modbus",
+	"updateQuery" : "Mettre à jour les données"
+}
